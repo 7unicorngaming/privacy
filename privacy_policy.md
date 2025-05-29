@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy – 7unicorngaming</title>
+  <title> Privacy Policy – 7unicorngaming </title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
     body{font-family:Arial,Helvetica,sans-serif;max-width:760px;margin:auto;line-height:1.55;padding:24px}
